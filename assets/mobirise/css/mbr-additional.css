@@ -1221,27 +1221,37 @@ pre {
 .cid-qruqnEPSFB .popup-btn:hover .mbr-section-btn {
   opacity: 1;
 }
-.cid-qroEiVm05V {
-  padding-top: 60px;
-  padding-bottom: 60px;
-  background: #ffffff;
-}
-.cid-qroEiVm05V .video-block {
-  margin: auto;
-}
-@media (max-width: 768px) {
-  .cid-qroEiVm05V .video-block {
-    width: 100% !important;
-  }
-}
 .cid-qrrGm7g5nK {
   padding-top: 60px;
   padding-bottom: 60px;
   background-image: url("../../../assets/images/jumbotron.jpg");
 }
+.cid-qrOtQGoSPX {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #ffffff;
+}
+.cid-qrOtQGoSPX .line {
+  background-color: #149dcc;
+  color: #149dcc;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
+.cid-qrOtQGoSPX .section-text {
+  padding: 2rem 0;
+}
+.cid-qrOtQGoSPX .inner-container {
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .cid-qrOtQGoSPX .inner-container {
+    width: 100% !important;
+  }
+}
 .cid-qrup8R9WEw {
-  padding-top: 90px;
-  padding-bottom: 90px;
+  padding-top: 45px;
+  padding-bottom: 45px;
   background-color: #ffffff;
 }
 .cid-qrup8R9WEw .mbr-section-subtitle {
