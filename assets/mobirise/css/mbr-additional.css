@@ -1249,17 +1249,6 @@ pre {
     width: 100% !important;
   }
 }
-.cid-qrup8R9WEw {
-  padding-top: 45px;
-  padding-bottom: 45px;
-  background-color: #ffffff;
-}
-.cid-qrup8R9WEw .mbr-section-subtitle {
-  color: #767676;
-}
-.cid-qrup8R9WEw .btn {
-  margin: 0 0 .5rem 0;
-}
 .cid-qroEX4aszy {
   padding-top: 90px;
   padding-bottom: 90px;
@@ -1302,6 +1291,11 @@ pre {
 .cid-qroEX4aszy .card-wrapper:hover {
   box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
   transition: box-shadow 0.3s;
+}
+.cid-qrOwiRp1Ub {
+  padding-top: 60px;
+  padding-bottom: 30px;
+  background-color: #5b686b;
 }
 .cid-qrrcv1vHaO {
   padding-top: 90px;
